@@ -1,8 +1,3 @@
-#Disclaimer!!!!!
-#This program was done and it can only be used for an educational purpose and testing any use of it for hacking or illegal tracking can lead to a lawsuit
-#Abdellah Sabhi 
-
-
 import phonenumbers
 from phonenumbers import geocoder
 from phone import number
